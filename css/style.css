@@ -1,6 +1,7 @@
-.image_background{
+.image_background {
     background-color: #B3D6DA;
 }
+
 .new_website_soon {
     position: absolute;
     top: 50%;
@@ -9,4 +10,73 @@
     -ms-transform: translateX(-50%) translateY(-50%);
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
+}
+
+.container_body_color {
+    background-color: #f1f0f0;
+}
+
+.nav_menu_theme_color {
+    background-color: #2e302f;
+}
+
+.menu_title_color {
+    color: white;
+}
+
+.menu_title {
+    padding: 10px;
+}
+
+.nav_menu {
+    height: 100%;
+    margin-top: 14%;
+    text-align: left;
+    border-radius: 5px;
+    min-height: 550px;
+    font-size: 20px;
+    padding: 100px 0px;
+    text-transform: uppercase;
+    cursor: pointer;
+    text-decoration-color: none;
+}
+
+.page_title {
+    text-align: center;
+    margin-top: 15px;
+}
+.page_title button{
+    color: white;
+}
+
+.theme_color {
+    background-color: #66cc99;
+}
+
+.hr_underline {
+    background-color: #fb3866;
+}
+
+hr {
+    height: 1px;
+    border: 0;
+    margin-top: 0.5rem;
+}
+.page_sub_title{
+    text-align: left;
+}
+.page_sub_title button{
+    background-color: white;
+    color: #2e302f;
+    font-weight: 500;
+
+}
+.about_me_content{
+    padding: 10px 0px;
+    line-height: 30px;
+
+}
+.menu_icon{
+    margin: 0px 10px;
+    color: white;
 }
